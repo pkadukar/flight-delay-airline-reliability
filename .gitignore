@@ -22,3 +22,5 @@ data/raw/
 # Environment / secret files
 .env
 .env.*
+
+notebooks/01_data_acquisition_and_inspection.ipynb
